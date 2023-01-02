@@ -11,6 +11,7 @@ const ColorModeSwitcher = props => {
       pos={'fixed'}
       top={'4'}
       right={'4'}
+      zIndex={'overlay'}
       variant="ghost"
       color="current"
       marginLeft="2"
